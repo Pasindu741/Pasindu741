@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I am a final year **Applied Statistics (Hons)** undergraduate at the **University of Colombo**, passionate about converting raw data into hidden patterns — and using those patterns to support better business decisions. My academic journey has given me a strong theoretical foundation in statistics, which I apply through data projects that bridge the gap between numbers and real-world impact.
+I am a final year **Applied Statistics (Hons)** undergraduate at the **University of Colombo**, passionate about converting raw data into hidden patterns and using those patterns to support better business decisions. My academic journey has given me a strong theoretical foundation in statistics, which I apply through data projects that bridge the gap between numbers and real-world impact.
 
 ![Statistical Modelling](https://img.shields.io/badge/📊%20Statistical%20Modelling-eff6ff?style=flat-square&color=eff6ff&labelColor=eff6ff&logoColor=1d4ed8)
 ![Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-f0fdfa?style=flat-square&color=f0fdfa)
@@ -43,7 +43,7 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 - 🔵 Database Management & SQL
 - 🟡 Econometrics  
 - 🟣 Industrial Psychology
-- 🔴 Supervised ML · Stanford / DeepLearning.AI
+- 🔴 Time to Event Data Analysis
 
 
 ---
@@ -69,7 +69,7 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter&theme=light" />
+  <img src="https://skillicons.dev/icons?i=jupyter&theme=light" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" />
   &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
