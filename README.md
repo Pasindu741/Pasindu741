@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I am a final year **Applied Statistics (Hons)** undergraduate at the **University of Colombo**, passionate about converting raw data into hidden patterns and using those patterns to support better business decisions. My academic journey has given me a strong theoretical foundation in statistics, which I apply through data projects that bridge the gap between numbers and real-world impact.
+I am a final year **Applied Statistics (Hons)** undergraduate at the **University of Colombo**, passionate about converting raw data into hidden patterns — and using those patterns to support better business decisions. My academic journey has given me a strong theoretical foundation in statistics, which I apply through data projects that bridge the gap between numbers and real-world impact.
 
 ![Statistical Modelling](https://img.shields.io/badge/📊%20Statistical%20Modelling-eff6ff?style=flat-square&color=eff6ff&labelColor=eff6ff&logoColor=1d4ed8)
 ![Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-f0fdfa?style=flat-square&color=f0fdfa)
@@ -35,6 +35,9 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 ![Business Intelligence](https://img.shields.io/badge/🎯%20Business%20Intelligence-faf5ff?style=flat-square&color=faf5ff)
 ![Database & SQL](https://img.shields.io/badge/🗄️%20Database%20%26%20SQL-fff1f2?style=flat-square&color=fff1f2)
 
+---
+
+## 📚 Currently Studying &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 Career Goal
 
 ## 📚 Currently Studying
 
@@ -47,6 +50,7 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 
 To uncover hidden patterns in complex datasets and translate statistical insights into clear, actionable decisions that create measurable business impact.
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -88,7 +92,7 @@ To uncover hidden patterns in complex datasets and translate statistical insight
 
 ---
 
-### 📉 Customer Churn Analysis — Telecom [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Pasindu741)
+### 📉 Customer Churn Analysis — Telecom [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Pasindu741/customer-churn-analysis)
 
 > Analyzed 7,043 customer records · Chi-square independence tests · Month-to-month churn: 42.7% · Electronic check churn: 45.3% · Proposed targeted retention strategies
 
@@ -96,7 +100,7 @@ To uncover hidden patterns in complex datasets and translate statistical insight
 
 ---
 
-### 📊 Adidas Sales Performance Dashboard [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Pasindu741)
+### 📊 Adidas Sales Performance Dashboard [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Pasindu741/adidas-sales-performance-dashboard)
 
 > Interactive Power BI dashboard · $899.9M total sales · $332M operating profit · 2.48M units sold · CEO-level KPI overview · Translated raw sales data into actionable business insights
 
