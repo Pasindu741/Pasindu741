@@ -35,17 +35,18 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 ![Business Intelligence](https://img.shields.io/badge/🎯%20Business%20Intelligence-faf5ff?style=flat-square&color=faf5ff)
 ![Database & SQL](https://img.shields.io/badge/🗄️%20Database%20%26%20SQL-fff1f2?style=flat-square&color=fff1f2)
 
----
 
-## 📚 Currently Studying &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 Career Goal
+## 📚 Currently Studying
 
-| Subject | &nbsp; | Goal |
-|---|---|---|
-| 🔵 Database Management & SQL | | To uncover hidden patterns in complex datasets and |
-| 🟡 Econometrics | | translate statistical insights into clear, |
-| 🟣 Industrial Psychology | | actionable decisions that create measurable business impact. |
+- 🔵 Database Management & SQL
+- 🟡 Econometrics  
+- 🟣 Industrial Psychology
+- 🔴 Supervised ML · Stanford / DeepLearning.AI
 
----
+## 🚀 Career Goal
+
+To uncover hidden patterns in complex datasets and translate statistical insights into clear, actionable decisions that create measurable business impact.
+
 
 ## 🛠️ Tech Stack
 
