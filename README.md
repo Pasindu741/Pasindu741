@@ -66,10 +66,11 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="120" height="48" style="object-fit:contain" />
 </p>
 
+
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jupyter&theme=light" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" />
   &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
