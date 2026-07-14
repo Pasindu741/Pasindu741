@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=1d4ed8&center=true&vCenter=true&width=700&lines=Converting+raw+data+into+hidden+patterns+that+drive+business+decisions;Final+Year+Applied+Statistics+%C2%B7+University+of+Colombo;Statistical+Modelling+%7C+Machine+Learning+%7C+Business+Analytics;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Scikit-learn;From+raw+numbers+to+real-world+business+impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=1d4ed8&center=true&vCenter=true&width=900&lines=Converting+raw+data+into+hidden+patterns+that+drive+business+decisions;Final+Year+Applied+Statistics+%C2%B7+University+of+Colombo;Statistical+Modelling+%7C+Machine+Learning+%7C+Business+Analytics;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Scikit-learn;From+raw+numbers+to+real-world+business+impact" />
 </p>
 
 <p align="center">
