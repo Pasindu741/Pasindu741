@@ -37,7 +37,6 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 
 ---
 
-## 📚 Currently Studying &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 Career Goal
 
 ## 📚 Currently Studying
 
@@ -46,9 +45,6 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 - 🟣 Industrial Psychology
 - 🔴 Supervised ML · Stanford / DeepLearning.AI
 
-## 🚀 Career Goal
-
-To uncover hidden patterns in complex datasets and translate statistical insights into clear, actionable decisions that create measurable business impact.
 
 ---
 
