@@ -89,6 +89,14 @@ I am a final year **Applied Statistics (Hons)** undergraduate at the **Universit
 
 ---
 
+### 👥 Recruitment Analytics Dashboard | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Pasindu741/recruitment-analytics-dashboard) [![Demo](https://img.shields.io/badge/▶%20Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/JShn64oAmDI)
+
+> Analyzed 250 recruitment records across 6 departments, 18 job roles & 5 recruiters · Designed a MySQL star-schema data model · Developed DAX KPIs for Hiring Rate, Time to Hire & Cost per Hire · Built interactive Power BI dashboards · Identified recruitment and recruiter performance insights
+
+`MySQL` `Power BI` `DAX` `Business Intelligence` `Data Visualization`
+
+---
+
 ### 📉 Customer Churn Analysis — Telecom [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Pasindu741/customer-churn-analysis)
 
 > Analyzed 7,043 customer records · Chi-square independence tests · Month-to-month churn: 42.7% · Electronic check churn: 45.3% · Proposed targeted retention strategies
